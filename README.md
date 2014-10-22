@@ -1,7 +1,7 @@
 ledtst01
 ========
 
-Scratch Application demonstrating how to turn on, then turn off an LED followed by flashing it.  
+Application demonstrating how to turn on, then turn off an LED followed by flashing it.  
 
 Note that LEDs start with the front right LED as number zero ("0") and then go around the LED in a clockwise fashion.  The last LED is five ("5").
 
@@ -10,7 +10,7 @@ Note that LEDs start with the front right LED as number zero ("0") and then go a
 Type              : Scratch
 Version           : 01.0
 Author            : myke predko
-Firmware          : 41
+Firmware          : 42
 ```
 
 ### Release History:
